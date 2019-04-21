@@ -9,8 +9,8 @@ from fastai import *
 from fastai.vision import *
 
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=14wrNim7SdIzpUDdLX4wNJo1tb70mnAXv'
-export_file_name = 'swat_80.pkl'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1Fo8pkJwqEFLI7kVGKrhQgA2S6NKj0gqD'
+export_file_name = 'swat3.pkl'
 classes = ['armed', 'unarmed']
 path = Path(__file__).parent
 
