@@ -9,9 +9,10 @@ from fastai import *
 from fastai.vision import *
 
 #export_file_url = 'https://drive.google.com/uc?export=download&id=1lnQZ5IepKV6r7EjFmKsIyT8iKRbobUms'
-export_file_url = 'https://drive.google.com/uc?export=download&id=1Fo8pkJwqEFLI7kVGKrhQgA2S6NKj0gqD'
-export_file_name = 'swat3.pkl'
-
+#export_file_url = 'https://drive.google.com/uc?export=download&id=1Fo8pkJwqEFLI7kVGKrhQgA2S6NKj0gqD'
+#export_file_name = 'swat3.pkl'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1cTaMzSATsqzu-SeodyryAzMfENahDPDY'
+export_file_name = 'swat_135k_15e.pkl'
 classes = ['armed', 'unarmed']
 path = Path(__file__).parent
 
